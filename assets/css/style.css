@@ -1,0 +1,18 @@
+.table{
+    background-color: rgb(23, 107, 135);
+}
+h1,
+h2,
+h3,
+p,
+ul,
+a,
+i{
+    color: white;
+}
+h1[class="good"]{
+    background-color: black;
+}
+h2[class]{
+    background-color: black;
+}
